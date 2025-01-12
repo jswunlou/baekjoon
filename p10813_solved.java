@@ -2,7 +2,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class p10813 {
+public class p10813_solved {
     public static void main(String[] args) {
         Map<Integer, Integer> basket = new HashMap<>();
         Scanner sc = new Scanner(System.in);
